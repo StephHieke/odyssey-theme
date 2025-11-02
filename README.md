@@ -25,7 +25,7 @@ Odyssey Theme is a modern theme/starter for a business or startup's marketing we
 
 
 - ✅ **A perfect score in Lighthouse**
-- ✅ **Blazing fast performance thanks to Astro 🚀**
+- ✅ **Blazing fast performance thanks to Astronaut 🚀**
 - ✅ **A Full Featured Blog with Tagging**
 - ✅ **Fully theme-able styles with for buttons, shapes, backgrounds, surfaces, etc.**
 - ✅ **Responsive, mobile-friendly landing pages**
